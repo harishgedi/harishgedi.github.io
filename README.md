@@ -1,4 +1,17 @@
 # Hi, I’m Gedi Harish 👋
+*Ad astra per aspera.*
+
+Cloud & Distributed Systems Engineer with a strong inclination toward **building real systems**, **prototyping ideas into working products**, and **learning by implementing from first principles**.
+
+I work primarily across **AWS, Kubernetes, CI/CD automation, and observability**, backed by a foundation in **electronics engineering, embedded systems, and signal processing**. My approach to engineering is hands-on — build it, measure it, break it, and improve it.
+
+---
+
+## 🧠 What I’m Focused On
+
+- Designing and operating **distributed systems on AWS**
+- Container orchestration with **Kubernetes (EKS)**
+
 
 Cloud & Distributed Systems Engineer with a strong inclination toward **building real systems**, **prototyping ideas into working products**, and **learning by implementing from first principles**.
 
