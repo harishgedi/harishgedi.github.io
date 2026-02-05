@@ -1,63 +1,106 @@
+# Hi, I’m Gedi Harish 👋
 
-# 👋 Hey there, I'm Harish Gedi
+Cloud & Distributed Systems Engineer with a strong inclination toward **building real systems**, **prototyping ideas into working products**, and **learning by implementing from first principles**.
 
-🚀 **DevOps & Site Reliability Engineer** by profession, **cloud whisperer** by passion 🌩️🛠️  
-🔄 4.8+ years of wrangling servers, smashing bugs, and automating *all the things* 🧰⚙️  
-☕ Fuelled by coffee, 3AM DevOps memes, and the occasional midnight deployment crisis 😂
-
----
-
-## 🤖 About Me
-
-Welcome to my DevOps dojo! 🥋
-
-I'm Harish, a results-driven **DevOps & SRE Engineer** specializing in turning chaos into cloud-native order. I thrive on building resilient systems, squeezing every drop out of CI/CD, and making infrastructure not just scalable—but *smart*.
-
-Whether it’s reducing AWS bills like a coupon ninja 🥷 or deploying zero-downtime rollouts that feel like magic, I’m all about efficient, secure, and elegant engineering.
+I work primarily across **AWS, Kubernetes, CI/CD automation, and observability**, backed by a foundation in **electronics engineering, embedded systems, and signal processing**. My approach to engineering is hands-on — build it, measure it, break it, and improve it.
 
 ---
 
-## 🔧 My Toolbelt
+## 🧠 What I’m Focused On
 
-### ☁️ Cloud & Infrastructure
-* 🛠️ **AWS Pro:** EC2, S3, RDS, VPC, IAM, CloudFront, Route 53  
-* 💾 IaC Fanboy: Terraform, CloudFormation, Ansible  
-* 🐳 Container Mastery: Docker, Kubernetes, Helm  
-* 📡 Eyes Everywhere: Prometheus, Grafana, New Relic, CloudWatch, Zabbix  
-
-### 🔄 CI/CD & DevOps
-* ⚡ Pipelines: GitHub Actions, GitLab CI/CD, Jenkins  
-* 📦 Packaging: Maven, Nexus, JFrog, SonarQube, Checkmarx  
-
-### 💻 Code & Scripting
-* 🐍 Python, Bash, Shell Script  
-* 🧙‍♂️ Git Wizardry on Linux (Ubuntu/CentOS)  
+- Designing and operating **distributed systems on AWS**
+- Container orchestration with **Kubernetes (EKS)** and **Helm**
+- **Infrastructure as Code** using Terraform & Ansible
+- **CI/CD automation** for reliable and repeatable releases
+- **Observability & reliability engineering**
+- Applying **systems thinking** from hardware to cloud platforms
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishgedi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishgedi&layout=compact&theme=tokyonight)
+**Cloud & Distributed Systems**
+- AWS (EC2, EKS, S3, RDS, CloudFront, IAM, VPC, Auto Scaling, Route53)
+- Docker, Kubernetes, Helm
+
+**Automation & CI/CD**
+- GitHub Actions, GitLab CI/CD, Jenkins
+- Terraform, Ansible
+
+**Monitoring & Reliability**
+- Prometheus, Grafana, New Relic, AWS CloudWatch
+
+**Programming & Data**
+- Python, SQL, Bash, C
+- MySQL, Oracle PL/SQL
+- Airflow (ETL exposure), Pandas, NumPy
+
+**Systems & Embedded**
+- Linux (Ubuntu, RedHat)
+- Embedded C, Arduino, Raspberry Pi, TM4C
+- OpenCV, MATLAB
+- Sensors: IR, Ultrasonic, RFID, PPG
 
 ---
 
-## 🏆 Career Highlights
+## 🚀 Professional Highlights
 
-* 💸 Cut AWS costs by **37%** using auto-scaling & automation (yes, my cloud bills are *lighter* than yours 😉)  
-* 🚀 Sped up deployments by **45%** with sleek GitHub & GitLab pipelines  
-* 🧠 Built production-ready Kubernetes clusters with near-zero downtime  
-* 🟢 Achieved **95% uptime** across e-commerce platforms  
-* 🔐 Hardened cloud infra with secure IAM roles, TLS encryption & VPC firewalls  
+- Reduced **AWS infrastructure costs by ~37%** using autoscaling and right-sizing
+- Improved **deployment speed by ~45%** through CI/CD automation
+- Migrated legacy services into **Dockerized microservices on EKS**
+- Built **production-grade monitoring pipelines** with actionable alerts
+- Improved API latency and release consistency across platforms
+- Maintained **~95% uptime** for e-commerce workloads
+
+---
+
+## 🧪 What You’ll Find Here
+
+This GitHub is a **build log and learning workspace**.
+
+You’ll find:
+- Cloud and infrastructure experiments
+- Kubernetes and CI/CD prototypes
+- Monitoring and reliability setups
+- Data pipelines and automation scripts
+- Systems and embedded projects from undergraduate work
+- Proof-of-concepts, experiments, and design explorations
+
+Not everything here is polished — most things are built to **understand systems deeply**.
 
 ---
 
-## 🤝 Let's Connect!
+## 🎓 Engineering Background
 
-* [📎 LinkedIn](https://www.linkedin.com/in/gedi-harish-b2407b368)  
-* 📬 Email me: [harishgedi7@gmail.com](mailto:harishgedi7@gmail.com)
+B.Tech in Electronics Engineering with extensive **hands-on product and prototype development during undergraduate studies**.
+
+Worked on multiple system-level projects involving:
+- Embedded systems and microcontrollers
+- Computer vision and signal processing
+- Networking and system simulation
+- Hardware–software integration
+
+These experiences shaped my interest in **how complex systems behave end-to-end**, from sensors and firmware to distributed cloud platforms.
 
 ---
+
+## 🌱 Current Learning Interests
+
+- Distributed systems internals
+- Cloud reliability and failure modes
+- Kubernetes internals and scheduling
+- Data engineering and real-time pipelines
+- Edge computing and embedded + cloud integration
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/gediharish-invictus  
+- Email: harishgedi9@gmail.com  
+
+Always open to discussions around systems, architecture, and learning journeys.
+
 
 ✨ *Thanks for stopping by. If you're still reading, go grab a coffee—you earned it! ☕*  
 *And remember: If it’s not automated, it’s not DevOps.* 🧑‍💻
