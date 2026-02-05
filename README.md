@@ -1,5 +1,5 @@
 # Hi, I’m Gedi Harish 👋
-*Ad astra per aspera.*
+### *Ad astra per aspera*
 
 Cloud & Distributed Systems Engineer with a strong inclination toward **building real systems**, **prototyping ideas into working products**, and **learning by implementing from first principles**.
 
